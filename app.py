@@ -93,7 +93,7 @@ def build_wordcloud(dataframe, width, height, top_n):
         width=width,
         height=height,
         background_color="white",
-        font_path="C:/Windows/Fonts/msgothic.ttc"
+        font_path="/usr/share/fonts/opentype/noto/NotoSansCJK-Regular.ttc"
     ).generate_from_frequencies(freq)
 
     return wc, freq
