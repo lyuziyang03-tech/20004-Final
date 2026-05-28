@@ -1,0 +1,15 @@
+streamlit
+pandas
+numpy
+plotly
+scikit-learn
+networkx
+openpyxl
+wordcloud
+scipy
+matplotlib
+sudachipy
+sudachidict_core
+streamlit_folium
+folium
+cartopy
